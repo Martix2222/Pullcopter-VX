@@ -17,3 +17,16 @@ It took quite a lot of effort, as SolidWorks sometimes just refuses to work unle
 Also, the bottom of the propeller, which attaches to the rotary shaft and should let go once the shaft stops putting in additional energy looks like this:
 ![propeller shaft hole](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTcyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--09efc1b2e7272dc0ccb3abe831a8f392eba03b32/image.png)  
 
+## 10/27/2025 - Fixed the propeller and started working on the gears  
+
+So, firstly, I fixed some problems with the thickness of the propeller blades. (There were some places where its blades were too thick which I did not notice before)
+I also made quite a lot of progress on the gear reduction mechanism. It currently looks like this:
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--76872e49c5baf7d17cd1be5fca8595545f72f8dd/image.png)
+
+It took me a lot of time to figure out how gears work in SolidWorks (fortunately a few tutorials helped) and how to make them into a proper assembly.
+
+The last thing I worked on is the handle. I will now have to figure out how to incorporate all the mechanisms into it, such that it can then be printed and assembled easily:
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--3d6450dbe753bdc30a6a1f8c6edfad7866d146e8/image.png)
+(It currently really currently is just the handle part)
+  
+
