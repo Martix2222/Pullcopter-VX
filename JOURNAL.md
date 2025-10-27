@@ -30,3 +30,13 @@ The last thing I worked on is the handle. I will now have to figure out how to i
 (It currently really currently is just the handle part)
   
 
+## 10/28/2025 - Everything broke  
+
+Today, SolidWorks just decided to refuse to work and broke everything inside the gear assembly. 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--11bd8362a898b12ea27e071699fc62431d2292c0/image.png)
+I tried fixing it but it just made things worse. So I decided to redo everything in a new assembly. The upside of this is that it allowed me to reconsider some things and I will include the handle in the assembly, so the whole body including the handle and the gearbox will be inside of one assembly now. I am also moving much faster now because I already know what to do and how to do it.
+
+Furthermore, I printed and tested the propeller (It is compatible with another pullcopter I found online so that I could test it before I made my version of the body) and I decided to make the curvature of the blades less aggressive, because they were just too thick and it seemed to have worse properties overall.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--78b2d99ac4c749fdba4aa13fb3cbff1b4221f013/image.png)
+  
+
