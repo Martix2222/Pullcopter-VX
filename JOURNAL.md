@@ -42,7 +42,7 @@ Furthermore, I printed and tested the propeller (It is compatible with another p
 
 ## 10/29/2025 - Further improved the propeller  
 
-I reduced the size of the propeller and reduced the mass of the blades by making them thinner. Now, I am pretty happy with it. It is also easier to print now.
+I reduced the size of the propeller and reduced the mass of its blades by making them thinner. Now, I am pretty happy with it. It is also easier to print now.
 ![20251029_194443(1)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjUxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--a057caa9db44d56f26f43138182a601ac16bae98/20251029_194443(1).jpg)
   
 
