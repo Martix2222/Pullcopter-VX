@@ -46,3 +46,13 @@ I reduced the size of the propeller and reduced the mass of its blades by making
 ![20251029_194443(1)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjUxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--a057caa9db44d56f26f43138182a601ac16bae98/20251029_194443(1).jpg)
   
 
+## 10/31/2025 - Finished a first usable version  
+
+I finally finished a first usable version of the body with the gearbox! Here it is:
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzE3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--6cc5add3e0916e601ee7e72d6c85f8e2dff12a6a/image.png)
+
+The gear ratio of the gearbox is 30:10 or 3:1
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzE3MywicHVyIjoiYmxvYl9pZCJ9fQ==--a551e20644eaed32900ed53cc8b5e0d612018211/image.png)
+
+Since the entry in which I wrote that I will have to redo everything I actually did do so and I probably figured out the nature of what I did such that I can hopefully prevent the assembly from breaking in the future. I also chose a different style of assembling the body, which I will have to test now. The two parts should just snap together around the gearbox. In total there are 6 printable parts in total (including the propeller). I will now have to test how they come together and adjust them if necessary.  
+
