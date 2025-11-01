@@ -56,3 +56,25 @@ The gear ratio of the gearbox is 30:10 or 3:1
 
 Since the entry in which I wrote that I will have to redo everything I actually did do so and I probably figured out the nature of what I did such that I can hopefully prevent the assembly from breaking in the future. I also chose a different style of assembling the body, which I will have to test now. The two parts should just snap together around the gearbox. In total there are 6 printable parts in total (including the propeller). I will now have to test how they come together and adjust them if necessary.  
 
+## 11/1/2025 - I made some mistakes  
+
+After printing and testing the top part of the handle with the gears and the pull cord, I realized I made a few mistakes. Firstly, I added this ridge to the shaft with the smaller wheel:
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--a843306c54636194e21b4f98bcd565f0b59f86e5/image.png)
+
+This was necessary to prevent the shaft from moving up and down inside the assembly.
+
+Secondly I realized i incorrectly positioned the pull cord relative to the wheel it was supposed to rotate. I was too close and the Sketch it was based on was improperly defined so I had to fix it.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--afbf8251f5a98174219991951101f1b25b3e6347/image.png)
+
+Lastly, I have decreased the gear ratio because I found that 3:1 is just too extreme. The force with which I had to pull on the cord was just really high so I will try a ratio of 24:16 or 3:2 which should be much better.
+The old version:
+![20251101_165243(1)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--088bfb7146e391f90d035c24faec73b507c7464c/20251101_165243(1).jpg)
+
+The new version:
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--b68051d943e18101930d5564858cedfc03ba9585/image.png)
+
+I have also fixed some definitions inside the sketches to make the resizing process a bit easier if I decide for a different gear ratio again in the future. Now, I will have to print everything again and see whether is feels and fits better.
+
+Also, I just realised that the ridge I added is now useless since I made the gear on the shaft larger, so it in holds the shaft in place by itself, but I will keep the ridge there anyway, because it does not interfere with anything. 
+  
+
